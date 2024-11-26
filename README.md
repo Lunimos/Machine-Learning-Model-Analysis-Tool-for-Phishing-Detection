@@ -27,7 +27,7 @@ Prerequisites
 Ensure Python 3.x and the required libraries are installed. Install dependencies using:
 
 bash
-Copy code
+
 pip install -r requirements.txt
 If a requirements.txt file is not provided, manually install the following libraries:
 
@@ -40,12 +40,12 @@ The dataset for this project is not included in the repository due to its size. 
 Usage
 Clone the Repository
 bash
-Copy code
+
 git clone https://github.com/your-username/repo-name.git
 cd repo-name
 Run the Program
 bash
-Copy code
+
 python main.py
 Menu Options
 Press A to load a phishing dataset:
@@ -69,8 +69,7 @@ Model training and evaluation using selected algorithms.
 Example Output
 Upon running the program and selecting an algorithm, you will receive metrics like the following:
 
-plaintext
-Copy code
+
 Random Forest:
 Accuracy: 92.34%
 Precision: 89.45%
